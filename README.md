@@ -23,7 +23,3 @@ While the source code is not publicly available at this time, we welcome other c
 ## Community
 
 Join us on [Discord](https://dronecompare.org/discord) to discuss drones, share feedback, and connect with other enthusiasts.
-
----
-
-Built with care by [Alos](https://alos.no)
